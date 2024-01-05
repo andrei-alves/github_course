@@ -1,5 +1,3 @@
 # Git and Github Course
 
-Arquivo da aula de Git e Github.
-
-Aprendendo Git.
+Este arquivo foi criado para o curso de Git e Github para iniciantes do Willian Justen.
